@@ -1,6 +1,6 @@
 # LunarCN - 帮助文档
 > 欢迎参与本文档的贡献
-[GitHUb项目地址](https://github.com/muskf/docs)
+[GitHUb项目地址](https://github.com/CubeWhyMC/docs)
 <br>
 
 <span id="busuanzi_container_site_pv" style='display:none'>
