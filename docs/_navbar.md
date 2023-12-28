@@ -1,4 +1,6 @@
 <!-- _navbar.md -->
 
 * 链接
-  * [Github地址](https://github.com/CubeWhyMC)
+  * [官网](https://www.lunarclient.top)
+  * [GitHub · Celestial](https://github.com/CubeWhyMC/celestial)
+  * [GitHub · LunarCN (已弃用)](https://github.com/CubeWhyMC/LunarClient-CN)
