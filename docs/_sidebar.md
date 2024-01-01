@@ -2,6 +2,7 @@
 - [欢迎](welcome.md)
 
 - Celestial
-  [下载](celestial/download.md)
+  [构建](celestial/build)
+  [切换主题](celestial/theme)
 
 
